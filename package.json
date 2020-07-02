@@ -1,0 +1,23 @@
+{
+  "name": "facerecog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/artClown/facerecog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/artClown/facerecog/issues"
+  },
+  "homepage": "https://github.com/artClown/facerecog#readme",
+  "dependencies": {
+    "face-api.js": "^0.22.2"
+  }
+}
